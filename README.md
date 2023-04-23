@@ -40,7 +40,7 @@ admin: admin@gmail.com
 password: password
 
 ************
-as Petugas
-petugas: oy@gmail.com
+as User
+user: oy@gmail.com
 password: 12345678
 ************
